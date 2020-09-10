@@ -2,6 +2,7 @@
 ## Installation
 This repo is tested on Python 3.6+, PyTorch 1.5.0+.
 To use the program the following prerequisites need to be installed.
+- pytorch>=1.5.0
 - nltk>=3.4
 - numpy>=1.15.4
 - pandas>=0.24.0
