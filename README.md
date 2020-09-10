@@ -8,7 +8,6 @@ When you have downloaded the pre-trained models, you should run the following sc
 ```
 cd Megatron-LM
 bash scripts/generate_text.sh
-
 ```
 ## Dataset 
 For business reason, we don't present CWFC corpus. But we will present the corpus for fine-tuning stylized models soon.
