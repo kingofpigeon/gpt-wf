@@ -1,6 +1,6 @@
 ## Quick start 
 ## GPT-WF
-#### Please download the pre-trained models from the following links and put it in *~/checkpoints/generic/.*
+#### Please download the pre-trained models from the following links and put it in *~/Megatron-LM/checkpoints/generic/.*
 - Basic model: https://share.weiyun.com/r6Kdrm7T password：xqsuuv
 - Stylized models https://share.weiyun.com/ELBwoIMU password：7gyavd
 
