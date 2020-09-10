@@ -1,5 +1,5 @@
 # GPT-WF (built on NVIDIA Megatron-LM)
-This is the implementation for Chinese Web fiction Genrative Pre-trained model:GPT-WF.
+This is the implementation for Chinese Web fiction Genrative Pre-Trained model:GPT-WF.
 ## Quick start
 ### Installation
 This repo is tested on Python 3.6+, PyTorch 1.5.0+.
